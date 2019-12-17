@@ -178,6 +178,10 @@
           <option name="url" value="https://github.com/east-district-dev/fit2cloud2.0-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/east-district-dev/fit2cloud2.0-management-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/ddbx" />
