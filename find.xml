@@ -9,7 +9,7 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
