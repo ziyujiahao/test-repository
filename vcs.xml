@@ -216,6 +216,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/north" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/east-poc" />
   </component>
 </application>
