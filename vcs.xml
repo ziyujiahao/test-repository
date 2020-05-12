@@ -316,6 +316,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/wehotel" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/ddbx-dev" />
   </component>
 </application>
