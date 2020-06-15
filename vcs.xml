@@ -332,6 +332,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/baisheng" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/i18n" />
   </component>
 </application>
