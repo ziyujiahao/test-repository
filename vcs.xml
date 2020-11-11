@@ -368,6 +368,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/east-public" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/bs-tmp" />
   </component>
 </application>
