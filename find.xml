@@ -10,7 +10,7 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
