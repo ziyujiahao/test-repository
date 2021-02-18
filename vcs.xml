@@ -430,8 +430,20 @@
           <option name="url" value="git@github.com:CloudExplorer-CMP/jumpserver-connector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fit2cloud-ui/fit2cloud-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fit2cloud-ui/fit2cloud-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fit2cloud-ui/samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/temp" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
   </component>
 </application>
