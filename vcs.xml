@@ -454,6 +454,14 @@
           <option name="url" value="git@github.com:GuLinLing/vue-resize-box.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:869123771/element-pro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:john-ehsure/vue-drag-infinite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/test-ui" />
