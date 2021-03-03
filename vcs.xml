@@ -468,6 +468,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/test-ui" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
   </component>
 </application>
