@@ -466,8 +466,16 @@
           <option name="url" value="git@github.com:gausszhou/vue-drag-resize-rotate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fit2cloudrd/fit2cloud2.0-jenkins-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fit2cloudrd/fit2cloud2.0-jenkins-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
