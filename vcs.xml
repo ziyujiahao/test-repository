@@ -486,8 +486,12 @@
           <option name="url" value="git@github.com:east-district-dev/fit2cloud2.0-ansible-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tigerlove/vue-drag-resize-rotate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase" />
   </component>
 </application>
