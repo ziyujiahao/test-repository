@@ -5,6 +5,8 @@
       <mapping pattern="Jenkinsfile" type="Native" />
       <mapping pattern="V7__ipPoolupdate.sql" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
