@@ -524,6 +524,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/mian" />
   </component>
 </application>
