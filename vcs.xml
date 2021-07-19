@@ -530,8 +530,12 @@
           <option name="url" value="git://github.com/niklasvh/html2canvas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dataease/html2canvas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/canvas" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/h2c-de" />
   </component>
 </application>
