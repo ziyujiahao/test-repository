@@ -592,7 +592,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/drag-demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
