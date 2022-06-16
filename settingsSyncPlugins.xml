@@ -1,0 +1,52 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="Pythonid">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.python-pro-capable" />
+                  <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.andrey4623.rainbowcsv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.plugins.jade">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="net.seesharpsoft.intellij.plugins.csv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.vue">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
