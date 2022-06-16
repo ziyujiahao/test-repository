@@ -10,8 +10,8 @@
     <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
