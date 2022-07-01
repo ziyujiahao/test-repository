@@ -590,9 +590,13 @@
           <option name="url" value="git@github.com:dataease/dataease-extensions.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:apache/doris.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code/drag-demo" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
