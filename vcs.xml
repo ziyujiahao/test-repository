@@ -610,9 +610,13 @@
           <option name="url" value="https://github.com/cjbi/admin3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://woai3c.github.io/visual-drag-demo/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/A-DataEase2.0/code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
