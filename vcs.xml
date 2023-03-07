@@ -626,6 +626,10 @@
           <option name="url" value="git@github.com:dataease/dataease2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xiongcaihu/vue-power-drag.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/A-DataEase2.0/code" />
